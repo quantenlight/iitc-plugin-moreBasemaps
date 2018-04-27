@@ -2,7 +2,7 @@
 IITC (Ingress Intel Total Conversion) plugin that adds some new basemaps.
 
 ## packages
-* all in none (iitc_more_basemaps_layer.user.js)
+* all in one (iitc_more_basemaps_layer.user.js)
 * single layer (iitc_`<basemap name>`_layer.user.js)
 
 ## included layers
