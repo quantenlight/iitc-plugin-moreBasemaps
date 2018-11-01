@@ -6,9 +6,8 @@
 // @description     Add Maptoolkit Layer https://www.maptoolkit.net/
 // @updateURL	    https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_maptoolkit_layer.user.js
 // @downloadURL     https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_maptoolkit_layer.user.js
-// @match           https://*.ingress.com/intel*
-// @match           http://*.ingress.com/intel*
-// @include         /^https?:\/\/.*ingress\.com\/intel.*/
+// @match           /^https?:\/\/intel.ingress\.com.*/
+// @include         /^https?:\/\/intel.ingress\.com.*/
 // @grant           none
 // ==/UserScript==
 

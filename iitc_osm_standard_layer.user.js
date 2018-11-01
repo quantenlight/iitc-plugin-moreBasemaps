@@ -6,9 +6,8 @@
 // @description     Add OpenStreetMap Layer https://www.openstreetmap.org/
 // @updateURL	    https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_osm_standard_layer.user.js
 // @downloadURL     https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_osm_standard_layer.user.js
-// @match           https://*.ingress.com/intel*
-// @match           http://*.ingress.com/intel*
-// @include         /^https?:\/\/.*ingress\.com\/intel.*/
+// @match           /^https?:\/\/intel.ingress\.com.*/
+// @include         /^https?:\/\/intel.ingress\.com.*/
 // @grant           none
 // ==/UserScript==
 
