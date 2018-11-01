@@ -2,7 +2,7 @@
 // @id              iitc-plugin-basemap-osm-standard@Quantenstorm
 // @name            IITC plugin: OpenStreetMap tiles
 // @category        Map Tiles
-// @version         1.0.0
+// @version         1.0.1
 // @description     Add OpenStreetMap Layer https://www.openstreetmap.org/
 // @updateURL	    https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_osm_standard_layer.user.js
 // @downloadURL     https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_osm_standard_layer.user.js

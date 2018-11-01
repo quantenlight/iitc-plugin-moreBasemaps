@@ -2,7 +2,7 @@
 // @id              iitc-plugin-basemap-maptoolkit@Quantenstorm
 // @name            IITC plugin: Maptoolkit tiles
 // @category        Map Tiles
-// @version         1.1.0
+// @version         1.1.1
 // @description     Add Maptoolkit Layer https://www.maptoolkit.net/
 // @updateURL	    https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_maptoolkit_layer.user.js
 // @downloadURL     https://github.com/quantenlight/iitc-plugin-moreBasemaps/raw/master/iitc_maptoolkit_layer.user.js
